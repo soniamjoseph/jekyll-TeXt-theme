@@ -13,7 +13,7 @@ tags:
   - DevOps
   - Infrastructure
   - Tutorial
-summary: "An in-depth guide to Amazon Web Services (AWS), exploring its key services, features, and how to get started."
+summary: "An in-depth guide to Amazon Web Services (AWS), exploring its key services, features, and how to get started. I will be posting more pages every week."
 image: "/assets/images/all-about-aws-cover.jpg"
 layout: post
 draft: false
